@@ -2,10 +2,10 @@
 <html>
 <head>
 	<link rel="shortcut icon" type="image/x-icon" href="images/imagen.png">
-	<meta name="description" content="Here you can find all the rock music performed by different rock bands worldwide" />
+	<meta name="description" content="Here you can find all the rock music performed by different Polleria's Paredess worldwide" />
 	<meta name="keywords" content="music rock, national, international, web pages" />
 	<meta charset="utf-8">
-	<title>Rock Band</title>
+	<title>Polleria's Paredes</title>
 	<link rel="stylesheet" href="./css/estiloregistro.css">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
 	<link rel="stylesheet" href="css/sweetalert.css">

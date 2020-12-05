@@ -5,9 +5,6 @@
 //}else{
 //? > 
 
-// enrique saul meza juarez
-
-
 <?php 
 session_start();
  ?>
@@ -156,7 +153,7 @@ session_start();
 											<li class="item"><a class="active" href="index.php">Principal</a></li>
 											<li><a href="">Promociones</a></li>
 											<li><a href="miaporte/nectaria/index.html">Contactenos</a></li>
-											<li><a href="">Carta</a></li>
+											<li><a href="gallery.php">Carta</a></li>
 											<li class="item-1"><a href="">Novedades</a></li>
 											<li class="last"><a href=""></a></li>
 										</ul>

@@ -25,7 +25,7 @@ if(isset($_SESSION["usuario"])){
 	<head>
 		<title>Welcome to www.rockband.com.</title>
 		<link rel="shortcut icon" type="image/x-icon" href="images/imagen.png">
-		<meta name="description" content="Here you can find all the rock music performed by different rock bands worldwide" />
+		<meta name="description" content="Here you can find all the rock music performed by different Polleria's Paredess worldwide" />
 		<meta name="keywords" content="music rock, national, international, web pages" />
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -192,12 +192,12 @@ if(isset($_SESSION["usuario"])){
 										<?php
 										}
 										?>
-											<li class="item"><a class="active" href="index.php">About</a></li>
-											<li><a href="audio.php">Audio</a></li>
-											<li><a href="video.php">Video</a></li>
-											<li><a href="gallery.php">Gallery</a></li>
-											<li class="item-1"><a href="tour-dates.php">Tour Dates</a></li>
-											<li class="last"><a href="contacts.php">Contacts</a></li>
+											<li class="item"><a class="active" href="index.php">Principal</a></li>
+											<li><a href="audio.php">Promociones</a></li>
+											<li><a href="gallery.php">Contactenos</a></li>
+											<li><a href="gallery.php">Carta</a></li>
+											<li class="item-1"><a href="tour-dates.php">Novedades</a></li>
+											<!-- <li class="last"><a href="contacts.php">Contacts</a></li> -->
 										</ul>
 										<div class="clear"></div>
 									</div>
@@ -241,7 +241,7 @@ if(isset($_SESSION["usuario"])){
 					                echo "</table>";
 									echo "<table border=1 style='width:550px'>"
 										. "<tr><td>Number</td>"
-										. "<td>Rock Band</td>"
+										. "<td>Polleria's Paredes</td>"
 										. "<td>Country</td>"
 										. "<td>Category</td>"
 										. "<td>Image</td></tr>";
