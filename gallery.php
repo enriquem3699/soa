@@ -197,8 +197,7 @@ if(isset($_SESSION["usuario"])){
 											<li><a href="audio.php">Promociones</a></li>
 											<li><a href="miaporte/nectaria/index.html">Contactenos</a></li>
 											<li><a href="gallery.php">Carta</a></li>
-											<li class="item-1"><a href="tour-dates.php"></a></li>
-											<!-- <li class="last"><a href="contacts.php">Contacts</a></li> -->
+											<li class="item-1"><a href="tour-dates.php">Evento</a></li>											<!-- <li class="last"><a href="contacts.php">Contacts</a></li> -->
 										</ul>
 										<div class="clear"></div>
 									</div>
