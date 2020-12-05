@@ -52,6 +52,7 @@ if(isset($_SESSION["usuario"])){
 		<!--[if lt IE 9]>
 			<script type="text/javascript" src="js/html5.js"></script>
 			<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+			sddssdsddssdsdd
 		<![endif]-->
 	</head>
 	<body id="page2">
