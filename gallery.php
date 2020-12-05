@@ -197,7 +197,7 @@ if(isset($_SESSION["usuario"])){
 											<li><a href="audio.php">Promociones</a></li>
 											<li><a href="miaporte/nectaria/index.html">Contactenos</a></li>
 											<li><a href="gallery.php">Carta</a></li>
-											<li class="item-1"><a href="tour-dates.php">Novedades</a></li>
+											<li class="item-1"><a href="tour-dates.php"></a></li>
 											<!-- <li class="last"><a href="contacts.php">Contacts</a></li> -->
 										</ul>
 										<div class="clear"></div>
@@ -240,8 +240,8 @@ if(isset($_SESSION["usuario"])){
 									<div class="padding-grid-1">
 										<h3 class="letter">
 											<form name="fr" method="post" action="rocklist.php">
-									            Seleccione <strong>el tipo</strong> de producto 
-									             <input class="boton" type="submit" value="Go!" name="cmdenviar">
+									            Mire <strong>nuestro</strong> catalogo 
+									             <!-- <input class="boton" type="submit" value="Go!" name="cmdenviar"> -->
 									        </form>
 								        </h3>
 										<div id="js">
@@ -261,7 +261,7 @@ if(isset($_SESSION["usuario"])){
 											
 												<div class="imagen">
 													<?php
-														echo "<img src=galeria/imagen_".$x.$i.".jpg width=260 height=169></img>";
+														echo "<img src=galeria/imageen_".$x.$i.".jpg width=260 height=169></img>";
 													}
 													?>
 												</div>

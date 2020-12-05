@@ -151,11 +151,10 @@ session_start();
 										}
 										?>
 											<li class="item"><a class="active" href="index.php">Principal</a></li>
-											<li><a href="">Promociones</a></li>
+											<li><a href="audio.php">Promociones</a></li>
 											<li><a href="miaporte/nectaria/index.html">Contactenos</a></li>
 											<li><a href="gallery.php">Carta</a></li>
-											<li class="item-1"><a href="">Novedades</a></li>
-											<li class="last"><a href=""></a></li>
+							
 										</ul>
 										<div class="clear"></div>
 									</div>
@@ -189,7 +188,7 @@ session_start();
 								<div class="wrapper">
 									<article class="grid_4">
 										<div class="padding-grid-1">
-											<h3 class="letter">Ultimas <strong>Novedades</strong></h3>
+											<h3 class="letter">Ultimas <strong></strong></h3>
 											<div class="wrapper img-indent-bot1">
 												<time class="time time-stule-1" datetime="2011-11-09"> <strong class="text-1"></strong><strong class="text-2"></strong></time>
 												<div class="extra-wrap">
